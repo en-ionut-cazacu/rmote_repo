@@ -1,3 +1,5 @@
 doc1.txt
 *.cpp
 
+bin/
+
